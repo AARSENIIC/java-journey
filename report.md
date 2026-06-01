@@ -20,3 +20,13 @@ well it gonna take me some time to learn this syntax alone idk what to expect
 
 well thats for today i learned basics synatx and datatype i look forward for tommorow
  
+
+ ## June 1, 2026
+ why do i have to write 10 lines of code jsut to take user input and print it like why man why look at pythan u just create variable use input() and then print the variable.
+ but in java i have do whole lot of work to do that wow its just great.
+
+ i turned of suggestion showing in vscode i thought i would be better to be turned off as learner but will turn on when nessecary just for my reminder what i did is in settings>search quick suggestion and change some data in json file there it on top 
+
+ better.
+
+ today i was busy with something so i will look forward for tommorow class
