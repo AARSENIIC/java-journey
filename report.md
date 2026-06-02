@@ -29,4 +29,17 @@ well thats for today i learned basics synatx and datatype i look forward for tom
 
  better.
 
- today i was busy with something so i will look forward for tommorow class
+ today i was busy with something so i will look forward for tommorow
+
+ ## June 2, 2026
+Done some arthematics and continued with the scanner class i tolly get this point i make some mistake sometime with captials cause sometime u have to captilize the first letter sometimes u dont.
+at this point im doubting the corret syntax of python
+i gave little test, i wont say it is a test, it just practice to know im doing correct it was simple to program to ask user the food and quantity and display it full price. 
+
+if i have mention it before im take tutorial from Bro code from yt its 1 year old video of 12 hour long.
+
+i know i dint do much today but still some progress done rather that blank day.
+
+for tommorow's goal i want to complete if statment, math class , random number , printf - these where the name of next time stanp and i think i have to give more time for tommorow class
+
+see ya!
