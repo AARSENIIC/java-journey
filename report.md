@@ -43,3 +43,7 @@ i know i dint do much today but still some progress done rather that blank day.
 for tommorow's goal i want to complete if statment, math class , random number , printf - these where the name of next time stanp and i think i have to give more time for tommorow class
 
 see ya!
+
+## June 3, 2026
+complete if statment, math class , random , printf - not much of a problem till now everthing looks good but gods yes this ; are annoying but its good caus e vscode detects them and i can do correction easily not anything major so end of report 
+
