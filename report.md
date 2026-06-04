@@ -47,3 +47,7 @@ see ya!
 ## June 3, 2026
 complete if statment, math class , random , printf - not much of a problem till now everthing looks good but gods yes this ; are annoying but its good caus e vscode detects them and i can do correction easily not anything major so end of report 
 
+## June 4, 2026
+did little test of making compound intrest calculator then practice some string method and done nested if statment i think i should skip some part but hell na this language sucks cause why cant they make it simple why use so many capital i always do mistake
+
+well done for today looking forward for tommorw's class
