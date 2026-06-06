@@ -58,3 +58,6 @@ well done for today looking forward for tommorw's class
 i was studing ternary operator which is good alternative for if else statment then i studied switches but then it came to mind instead of writing so many if else statment of cases why dont just use or, and, as in python but then i show hell, caus e instead of 'or' 'and' u use || && like why, cant u simply use 'or' 'and' or if if have to trouble so much use 'OR' 'AND' but no i have to do everthing out of context just like english language where u write someting and read something else. fucking mindset of peanuts
 
 well i for report i made temperature conversion program using ternary operater and learned switches the are good i want to see what more i can do with them so thats for today meet u in next class, idk who im talking to. maybe it me , im going mad fr
+
+## June 5, 2026
+for today i took test from chatgpt to test my memory and reasoning, well there wasn't much reasoning involved but still i did great, i forgot  captialization of some word but everthing wend smoothly 
