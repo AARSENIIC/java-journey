@@ -65,3 +65,9 @@ for today i took test from chatgpt to test my memory and reasoning, well there w
 ## June 7,2026
 
 Hello hello , you might think im little enegatic today but no im fucking losser. why i said so cause from 2 days i have studing less and les and im becoming the same again which i hate the most isnt it irony, it 11 pm and what have i done, only watch video of java understanding how thinks but 0 practice even yesterdays practice test was cause i didnt wanted to study. man why im i like the fuck it idk what to do well im going to do nothing im going to do japanese and then maybe novel/manhwa for a bit cause im bored even though i havent done anything productive im i a loser yes but yeh i hate it. man would be nice if someone could guid me and no i dont need motivation i have enough cause i want to become immortal nothing is more motivational for me than becoming immortal or omniscent or omnipotent. so fuck idk what to do maybe i will procastnate a like like usuall or maybe after 5 min i change my mind and pull allnighter but im more sure that after japane i would be sleeping , or reading nove/manhwa fuck me 
+
+## June 8,2026
+Encounter my first problem in java . i dont know what i did wrong but it seems that whime in  do-whileloop i cant declare a variable and then use same variable as condition. other then that if i dont declare and initialize the variable before the while loop i get error i dont know what what to do i think it will be best to chatgpt and should know the problem so lets see  
+i get it so basiccaly if you delclare a variable inside a loop it never get outside of the loop until it ended therefore u can think that it never existed that cool to trap someone until the condition is absoultel fullfilled damnation.
+
+now for for loop
