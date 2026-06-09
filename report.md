@@ -71,3 +71,10 @@ Encounter my first problem in java . i dont know what i did wrong but it seems t
 i get it so basiccaly if you delclare a variable inside a loop it never get outside of the loop until it ended therefore u can think that it never existed that cool to trap someone until the condition is absoultel fullfilled damnation.
 
 now for for loop
+
+## June 9,2026
+so i made guessing game , i just to tell ya i didnt took help from ai or google its my pure knowlege. hehehe.
+nothing greate but it was fun.
+it hase room for improvment and i can see many error such as, wait did i write hase wrong wtf it feels wrong but i dont know what is wrong mann. well whatever, so there are some error which can be solved but i inted to make a new file which have tons of hilarious remarks and many thing new.
+but i wont be making thame right nowi will wait for some time and get to know more feture so that i can make it interactive and with better interface.
+well thats for today see ya.
