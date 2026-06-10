@@ -78,3 +78,8 @@ nothing greate but it was fun.
 it hase room for improvment and i can see many error such as, wait did i write hase wrong wtf it feels wrong but i dont know what is wrong mann. well whatever, so there are some error which can be solved but i inted to make a new file which have tons of hilarious remarks and many thing new.
 but i wont be making thame right nowi will wait for some time and get to know more feture so that i can make it interactive and with better interface.
 well thats for today see ya.
+
+## June 10,2026
+i done for loop , break ,continue , methods . method is bassicaly same as function of python it just i dont know wat void does and why i have to create another static follwed by void to make use of it idk how this language work in its core. but right now i have to accept as it is now, soon i will unveil the mysteries of void and conqure it becoming the newest mage in histroy. but i would stop there i will devour the whole heaven and earth becoming the ruler of was unconceived existance.........
+well whatever so today in my there was problem with google server and many service was shutdown so i could not continue more.
+end of report see ya
