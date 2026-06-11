@@ -83,3 +83,5 @@ well thats for today see ya.
 i done for loop , break ,continue , methods . method is bassicaly same as function of python it just i dont know wat void does and why i have to create another static follwed by void to make use of it idk how this language work in its core. but right now i have to accept as it is now, soon i will unveil the mysteries of void and conqure it becoming the newest mage in histroy. but i would stop there i will devour the whole heaven and earth becoming the ruler of was unconceived existance.........
 well whatever so today in my there was problem with google server and many service was shutdown so i could not continue more.
 end of report see ya
+## June 11,2026
+doen with today's methods and i will do the test tommorw i also got curious of oops of java so i looked up and i dont want to talk about it
