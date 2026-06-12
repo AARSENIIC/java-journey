@@ -85,3 +85,12 @@ well whatever so today in my there was problem with google server and many servi
 end of report see ya
 ## June 11,2026
 doen with today's methods and i will do the test tommorw i also got curious of oops of java so i looked up and i dont want to talk about it
+
+## June 12,2026
+I didnt know that u can make dice image in program by using symbols. well i knew u can but not entirely but then again there are many thinks that i dont know about this program. so it was a test banking program and then a dice roll system thic shows image of dice using symbols.
+
+then i learned of the arrays they are like list in python. but idk if there are way to make dictonary, tuples, etc in java . where might be some way but idk know now. i think python list were easy to work with. with java it gets complicated.
+also with variable scope, i leaned what void does and now when i see arrays i can somewhat say what String[] args does. it good practice to have more known method to learn but im not focusing on it im thinking of putting that on practice once i i am good with general knowdge of how this language works. 
+
+thats for today i will be working on on some chatgpt test for some method knowldge and i will try to write them down so that i can memorize then but idk about memorizing cause im not convice yet that i will be working lot with java. so lets see 
+ see ya guys.
