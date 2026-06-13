@@ -94,3 +94,6 @@ also with variable scope, i leaned what void does and now when i see arrays i ca
 
 thats for today i will be working on on some chatgpt test for some method knowldge and i will try to write them down so that i can memorize then but idk about memorizing cause im not convice yet that i will be working lot with java. so lets see 
  see ya guys.
+
+ ## June 13,2026
+ today i done some test, just two tbh, 1st one is the banking system and the other one i generated from chat gpt in thich i have to take 5 worriers name and their score can it will display highest score,lowest average , etc , it will rank them according to their score like s rank a rank (using method), one can search by player name or number and get details using that info if not found it will display not found . also ther is a gussing system of who will win if answered correctly u will earn reward
