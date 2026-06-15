@@ -97,3 +97,8 @@ thats for today i will be working on on some chatgpt test for some method knowld
 
  ## June 13,2026
  today i done some test, just two tbh, 1st one is the banking system and the other one i generated from chat gpt in thich i have to take 5 worriers name and their score can it will display highest score,lowest average , etc , it will rank them according to their score like s rank a rank (using method), one can search by player name or number and get details using that info if not found it will display not found . also ther is a gussing system of who will win if answered correctly u will earn reward
+
+  ## June 14,2026
+
+   ## June 15,2026
+   yesterday was power surge i there wasnt electricity for 15 hours so i coudnt do anything . as for today i dont plan on doing anything cause i m change my schedule for a little such that i better time mangment
