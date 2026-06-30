@@ -107,3 +107,7 @@ thats for today i will be working on on some chatgpt test for some method knowld
 Sorry i took a huge break, its been habit now and im trying to fix this . if i encounter a problem i just leave withput solving it and start procastanating things . well i am back i hope i will be consistant now . lets hope that for next 21 days i will be really focused cause there is a saying if you do something for 21 days straight it becomes a habit so i should try this. 
 
 as for today i done oops and done some revision of previous class.
+
+## June 30,2026
+i wasnt my fault for not studing 2 days , its just that because of upcoming family function and i would be same till 15 july. and just that it 
+well i will try my best 
