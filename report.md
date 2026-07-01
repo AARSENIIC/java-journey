@@ -111,3 +111,6 @@ as for today i done oops and done some revision of previous class.
 ## June 30,2026
 i wasnt my fault for not studing 2 days , its just that because of upcoming family function and i would be same till 15 july. and just that it 
 well i will try my best 
+
+## July 1,2026
+Done revision hehehe........(not really)
